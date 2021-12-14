@@ -1,4 +1,4 @@
 import "./scss/index.scss"
 
-import './js/module'
+import './js/main'
 
