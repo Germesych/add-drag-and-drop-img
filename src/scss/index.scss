@@ -1,0 +1,16 @@
+@import "./settings/reset";
+@import "./settings/fonts-open_sans";
+@import "./settings/fonts-ubuntu";
+@import "./settings/fonts-poppins";
+@import "./settings/fonts-roboto";
+@import "./settings/vars";
+@import "./settings/config";
+
+@import "./pages/index-pages";
+
+@import "./block/nav";
+@import "./block/header";
+@import "./block/main";
+@import "./block/footer";
+
+@import "./block/media";
